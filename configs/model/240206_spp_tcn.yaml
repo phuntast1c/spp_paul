@@ -1,0 +1,16 @@
+class_path: spp.models.spp_tcn.SPPEstimator
+init_args:
+  learning_rate: 0.001
+  batch_size: 8
+  metrics_test: ""
+  metrics_val: ""
+  frame_length: 1024
+  shift_length: 512
+  window_type: hann
+  layer: 6
+  stack: 2
+  kernel: 3
+  hidden_dim: null
+  fs: 8000
+  use_batchnorm: true
+  use_log: true

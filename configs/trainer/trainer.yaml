@@ -1,0 +1,7 @@
+profiler: null
+max_epochs: 100
+log_every_n_steps: 100
+logger:
+  class_path: WandbLogger
+  init_args:
+    project: spp_paul

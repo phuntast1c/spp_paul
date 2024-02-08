@@ -1,5 +1,5 @@
 # Temporal Convolutional Network-Based Speech Presence Probability Estimation
-[![Paper](http://img.shields.io/badge/paper-TASLP)](https://ieeexplore.ieee.org/abstract/document/10224310)
+[![Paper](http://img.shields.io/badge/paper-TASLP-blue)](https://ieeexplore.ieee.org/abstract/document/10224310)
 
 ## Description
 This repository contains the code to train a temporal convolutional network (TCN)-based speech presence probability (SPP) estimator similar to the one used in [^1].
